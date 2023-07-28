@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cGb3515HdTToPJLpiV0byeBddI5l3fm0KGPW5rBsO9ipjyWSmvAeO63oWywWEfb1ketCWATVI5EOcouqkkeQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Regin\\source\\repos\\Trading_WebAPI_Test\\WpfApp1_upStock\\WpfApp1_upStock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Regin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Regin\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Regin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Regin\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Regin\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

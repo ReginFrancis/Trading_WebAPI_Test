@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyLearnings\\WpfApp1_upStock\\WpfApp1_upStock\\WpfApp1_upStock.csproj": {}
+  },
+  "projects": {
+    "C:\\MyLearnings\\WpfApp1_upStock\\WpfApp1_upStock\\WpfApp1_upStock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyLearnings\\WpfApp1_upStock\\WpfApp1_upStock\\WpfApp1_upStock.csproj",
+        "projectName": "WpfApp1_upStock",
+        "projectPath": "C:\\MyLearnings\\WpfApp1_upStock\\WpfApp1_upStock\\WpfApp1_upStock.csproj",
+        "packagesPath": "C:\\Users\\Regin\\.nuget\\packages\\",
+        "outputPath": "C:\\MyLearnings\\WpfApp1_upStock\\WpfApp1_upStock\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Regin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\old.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.com/api/v4/projects/23935830/packages/nuget/index.json": {},
+          "https://gitlab.com/api/v4/projects/23957504/packages/nuget/index.json": {},
+          "https://gitlab.com/api/v4/projects/23992416/packages/nuget/index.json": {},
+          "https://gitlab.com/api/v4/projects/23992467/packages/nuget/index.json": {},
+          "https://gitlab.com/api/v4/projects/24183831/packages/nuget/index.json": {},
+          "https://gitlab.com/api/v4/projects/24186063/packages/nuget/index.json": {},
+          "https://gitlab.com/api/v4/projects/24449712/packages/nuget/index.json": {},
+          "https://gitlab.com/api/v4/projects/26177921/packages/nuget/index.json": {},
+          "https://gitlab.com/api/v4/projects/26177921/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
